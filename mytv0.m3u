@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
-http://服务器ip/mytv.php?url=http://o11.163189.xyz:80/stream/tvb/fct4k/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
+http://服务器ip/mytv.php?url=http://tv123.vvvv.ee:80/live.php/?ch=75fe3d9c389
 #EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
 http://服务器ip/mytv.php?url=http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
